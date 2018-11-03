@@ -6,10 +6,12 @@ The full dataset can be donwloaded from: https://www.dropbox.com/s/qm075ef7t760h
 
 When training the mode
 
-----------------run main.py
+-------- run main.py
 
 Before running, modify the args attributes in main.py, and choose command 
+
 ---------model.train() 
+
 ---------model.test()
 
 Three datasets are included: 'authentication', 'scale free' and 'poisson random' dataset.
