@@ -2,7 +2,7 @@
 
 This code and dataseta are for the paper "deep graph translation".
 
-The full dataset can be donwloaded from: https://www.dropbox.com/s/qm075ef7t760hgv/dataset.zip?dl=0
+The full dataset can be donwloaded from: https://www.dropbox.com/s/5taptrm07reywb4/dataset.zip?dl=0
 
 When training the mode
 
